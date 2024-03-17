@@ -2,8 +2,4 @@
 KELOMPOK 6 RA
 PREDIKSI HARGA BUKA SAHAM TESLA (TSLA) DENGAN MODEL RNN DAN LSTM SEBAGAI PROJECT CLASS MATA KULIAH DEEP LEARNING
 
-**Kelompok 6:**
-* Justin Tigor H.S
-* Kevin Anugrah
-* Kathrine Brigita S.             
-* Kholisaturrohmah
+
